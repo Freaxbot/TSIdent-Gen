@@ -1,5 +1,5 @@
 # TSIdent-Gen
-A Libary to generate a TeamSpeak3 User Identity.
+[Archived] A Libary to generate a TeamSpeak3 User Identity.
 
 ---
 [![WTFPL](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/WTFPL_badge.svg/320px-WTFPL_badge.svg.png)](LICENSE.md)
